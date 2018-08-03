@@ -7,3 +7,4 @@ this is dev add content dev dev dev
 create a new branch is quick & simple
 create a new branch is quick AND simple.
 分支管理策略
+修复bug....
